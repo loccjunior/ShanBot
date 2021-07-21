@@ -1,13 +1,12 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *poto bot hecho por mini poto* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: mini poto uwu 
+   ○ Instagram: https://www.instagram.com/mini_potouwu
 
 
 ◉ *NUEVOS COMANDOS*
@@ -23,8 +22,6 @@ Interactua con el bot
 Divierte con tus amigos :)
 ○ ${prefix}desmenu
 Descargar musica y videos de YT
-○ ${prefix}version
-Conoce la versión de tu bot
 ○ ${prefix}welmenu
 Comandos de bienvedia a grupos
 
@@ -66,9 +63,9 @@ Registrate con el comando ${prefix}daftar y tu nombre
 ◉ *GRUPOS*
   ║
   ╠ ○ ${prefix}closegc
-  ╠ Cerrar el grupo solo admins
+  ╠ Cerrar el grupo (solo admins)
   ╠ ○ ${prefix}opengc
-  ╠ Abrir grupo solo admins
+  ╠ Abrir grupo (solo admins)
   ╠ ○ ${prefix}kickmenu
   ╠ Eliminar a un miembro 
   ╠ ○ ${prefix}promote
@@ -92,10 +89,10 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-ву ѕнαη∂υу
+*Mini Poto*
 
 
-⌜ *ごきげんよう :)* ⌟ 
+ 
 `
 }
 
